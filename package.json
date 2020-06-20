@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "esbuild": "^0.5.4"
+  },
+  "dependencies": {
+    "three": "^0.117.1",
+    "three-vrm": "^0.0.17"
+  }
+}
