@@ -1,10 +1,14 @@
 {
+  "scripts": {
+    "build": "esbuild --bundle src/index.ts --outfile=static/index.js",
+    "serve": "deno run --allow-net --allow-read dev_server.ts"
+  },
   "devDependencies": {
     "esbuild": "^0.5.4",
     "typescript": "^3.9.5"
   },
   "dependencies": {
     "three": "^0.117.1",
-    "three-vrm": "^0.0.17"
+    "@pixiv/three-vrm": "^0.3.5"
   }
 }

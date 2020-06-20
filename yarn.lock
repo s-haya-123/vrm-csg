@@ -2,15 +2,15 @@
 # yarn lockfile v1
 
 
+"@pixiv/three-vrm@^0.3.5":
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/@pixiv/three-vrm/-/three-vrm-0.3.5.tgz#58bb20afd6f6a8a334bc694ef9202bba158c4f3e"
+  integrity sha512-xhiuE5MpIgLf0tol//b7+9eeerk6RF3hYJ2Wx2+k7wRntlDVeW3MhMW4+SRLmvVjWFn0QJBpU0uKIVPaJDo2xA==
+
 esbuild@^0.5.4:
   version "0.5.4"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.5.4.tgz#0460ef999089dba534f2d214a0b84affae32669b"
   integrity sha512-qUKfkCHZ6jNzM1mIFlc4axTujYF+eNwjVMbYvmS26to5DnavdIQiE2JB3MEs77pgK9nrUviwAJKN39r7t4DynA==
-
-three-vrm@^0.0.17:
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/three-vrm/-/three-vrm-0.0.17.tgz#9ba25b4845126dc93c38ead464977e7c8cf91943"
-  integrity sha512-LVtCQeHkoqjTrKnncC8RNi1pYFxIEo5jXlQOPcPJKkgNlYVvr2cm6bX2Hw/zNI06VCpzugN4c1ADKhIAnhA7Bw==
 
 three@^0.117.1:
   version "0.117.1"
