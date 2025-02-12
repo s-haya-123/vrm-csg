@@ -4,7 +4,7 @@
     "serve": "deno run --allow-net --allow-read dev_server.ts"
   },
   "devDependencies": {
-    "esbuild": "^0.5.4",
+    "esbuild": "^0.25.0",
     "typescript": "^3.9.5"
   },
   "dependencies": {
